@@ -1,2 +1,2 @@
 
-# Maintained By : Techie Sneh [ @techiesneh ] [ Telegram ]
+# Maintained By : DKR [ @dkr ] 
