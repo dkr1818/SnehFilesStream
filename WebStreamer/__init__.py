@@ -1,4 +1,4 @@
-# Maintained By : Techie Sneh [ @techiesneh ] [ Telegram ]
+# Maintained By : DKR [ @dkr ]
 
 import time
 StartTime = time.time()
