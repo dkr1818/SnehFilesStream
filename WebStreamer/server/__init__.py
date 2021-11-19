@@ -1,4 +1,4 @@
-# © Techie Sneh [ @techiesneh ] [ Telegram ]
+# © DKR [ @dkr ] 
  
 
 from aiohttp import web
